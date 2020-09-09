@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Виктория](https://up.htmlacademy.ru/htmlcss/29/user/1567255).
+* Студент: [Виктория Азарова](https://up.htmlacademy.ru/htmlcss/29/user/1567255).
 * Наставник: [Александр Белокур](https://htmlacademy.ru/profile/alex-belokur).
 
 ---
